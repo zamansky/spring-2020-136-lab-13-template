@@ -1,4 +1,4 @@
-* Spring 2020 - Lab 12
+* Spring 2020 - Lab 13
 
 * Last name:
 
@@ -14,7 +14,7 @@
 - Fill in your name and GitHub username on top.
 - Use the Notes section to add any notes to the instructor.
 - The main lab description can be found here:
-  https://maryash.github.io/135/labs/lab_12.html 
+  https://maryash.github.io/135/labs/lab_13.html 
 
 * Daedalus specific instructions (changes from main spec):
 
@@ -35,3 +35,9 @@ This code will be tested using the usual ~make tests~ then by running
 
 Remember that in spite of the main lab instructions you are writing a
 single program with all the functionality.
+
+* Notes on bonus questions
+
+While the bonus questions are not required they are typical of
+technical interview questions so I highly recommend you attempt them.
+
