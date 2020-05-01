@@ -1,0 +1,37 @@
+* Spring 2020 - Lab 12
+
+* Last name:
+
+* First name:
+
+* GitHub username:
+
+* Notes:
+
+
+
+* General instructions:
+- Fill in your name and GitHub username on top.
+- Use the Notes section to add any notes to the instructor.
+- The main lab description can be found here:
+  https://maryash.github.io/135/labs/lab_12.html 
+
+* Daedalus specific instructions (changes from main spec):
+
+Doctest based unit tests are required for this lab.
+
+Make sure to add the .h files as appropriate in the Makefile as
+well  as include them in the files that need them (see the previous
+lab for an example and use the mailing list / slack for assistance if
+needed).
+
+* Notes
+
+For this lab, you will have to create the Makefile, tests, etc. You
+are to organize your code in a sensible way.
+
+This code will be tested using the usual ~make tests~ then by running
+~./tests/~ so make sure you set up the files and Makefile accordingly.
+
+Remember that in spite of the main lab instructions you are writing a
+single program with all the functionality.
